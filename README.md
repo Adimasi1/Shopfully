@@ -7,7 +7,7 @@ To complete this task, I followed a structured approach involving data extractio
 **1️ Creating and Preparing the Dataset**
 Since no initial dataset was provided, I generated synthetic data using Python (Random_data.py).
 The dataset was structured to match the expected format.
-The final dataset was saved as a CSV file (summary.csv) for further processing.
+The final dataset was saved as a CSV file (orders_kpi.csv) for further processing.
 
 **2️ Importing Data into MySQL**
 The dataset (orders_kpi.csv) was imported into a MySQL database.
