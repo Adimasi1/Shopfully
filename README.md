@@ -10,7 +10,7 @@ The dataset was structured to match the expected format.
 The final dataset was saved as a CSV file (summary.csv) for further processing.
 
 **2️ Importing Data into MySQL**
-The dataset (summary.csv) was imported into a MySQL database.
+The dataset (orders_kpi.csv) was imported into a MySQL database.
 A table (orders_kpi) was created to store the data, ensuring that all relevant fields were available.
 
 **3️ Extracting Relevant Data Using SQL**
